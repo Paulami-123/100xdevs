@@ -1,0 +1,37 @@
+[
+    {
+        "id": 2110,
+        "title": "Relax and Unwind ",
+        "description": "Take a moment to relax and unwind."
+    },
+    {
+        "id": 4105,
+        "title": "Learn Something New",
+        "description": "Dedicate some time to learning a new skill or hobby."
+    },
+    {
+        "id": 951,
+        "title": "Call a Friend or Family Member",
+        "description": "Reach out to someone you care about."
+    },
+    {
+        "id": 2876,
+        "title": "Cook a Homemade Meal",
+        "description": "Plan a delicious homemade meal and enjoy the process of cooking."
+    },
+    {
+        "id": 285,
+        "title": "Read a Book",
+        "description": "Set aside some quiet time to read a book of your choice."
+    },
+    {
+        "id": 1509,
+        "title": "Exercise",
+        "description": "Go for a brisk walk or do a short workout session."
+    },
+    {
+        "id": 2572,
+        "title": "Buy Groceries",
+        "description": "Purchase fruits, vegetables, and other essentials from the grocery store"
+    }
+]
